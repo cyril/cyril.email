@@ -1,0 +1,11 @@
+# GitHub Pages builds this repository with Jekyll, which skips directories
+# whose name starts with a dot. That is why .well-known/ never reached the
+# published site and https://cyril.email/.well-known/nostr.json answered 404
+# even though the file was committed and pushed. This puts it back.
+#
+# Only `include` is set, deliberately. Leaving `exclude` untouched preserves
+# the GitHub Pages default, which is exactly ["CNAME"] — declaring an exclude
+# list here would start publishing CNAME.
+
+include:
+  - .well-known
