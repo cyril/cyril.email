@@ -3,17 +3,10 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://cyril.email/</loc>
-    <lastmod>2025-06-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2026-11-09</lastmod>
     <image:image>
       <image:loc>https://cyril.email/img/cyril-kato,w_384.webp</image:loc>
-      <image:title>Cyril Kato - Open Source Developer</image:title>
-      <image:caption>Portrait of Cyril Kato, open source developer specializing in chess programming and Ruby testing tools</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://cyril.email/img/cyril-kato,w_200.webp</image:loc>
-      <image:title>Cyril Kato - Open Source Developer (200w)</image:title>
+      <image:title>Cyril Kato — Open Source Developer</image:title>
       <image:caption>Portrait of Cyril Kato, open source developer specializing in chess programming and Ruby testing tools</image:caption>
     </image:image>
   </url>
